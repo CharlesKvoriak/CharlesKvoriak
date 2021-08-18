@@ -6,11 +6,11 @@ body{
     background-image: url("Father.jpg");
 }
 
-#Title {
+#title {
     border: 2px #000000;
     background-color: #444444;
-    opacity:0.5;
     display:inline-block;
+    opacity: 0.8;
 }
 
 marquee {
