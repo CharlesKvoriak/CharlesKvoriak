@@ -10,7 +10,8 @@ body{
     border: 2px #000000;
     background-color: #444444;
     opacity:0.5;
-    display:block;
+    display:inline-block;
+    
 }
 
 marquee {
