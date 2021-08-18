@@ -9,7 +9,7 @@ body{
 #title {
     border: 2px #000000;
     background-color: #444444;
-    display:inline-block;
+    display:block;
     opacity: 0.8;
 }
 
