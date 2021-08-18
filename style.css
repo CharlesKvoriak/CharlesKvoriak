@@ -3,6 +3,11 @@ h1{
 }
 
 body{
-    /*background-image: url("Father.jpg");*/
     background-image: url("Father.jpg");
+}
+
+#Title {
+    border: 2px #000000;
+    background-color: #444444;
+    opacity: 50%;
 }
